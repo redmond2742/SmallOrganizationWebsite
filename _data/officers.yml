@@ -1,0 +1,27 @@
+- name: Jane Doe
+  image: "assets/images/officers/officer-headshot.jpeg"
+  ORGposition: Website Co-Chair
+  email: jane.doe@org.com
+  company: abc inc.
+  position: job title
+
+- name: John Doe
+  image: "/assets/images/officers/officer-headshot.jpeg"
+  ORGposition: President
+  email: johndoe@org.com
+  company: abc inc.
+  position: position
+
+- name: Doe Joe
+  image: "/assets/images/officers/officer-headshot.jpeg"
+  ORGposition: Vice President
+  email: Joe@org.com
+  company: abc inc.
+  position: position
+
+- name: Doe Jane
+  image: "/assets/images/officers/officer-headshot.jpeg"
+  ORGposition: Administrator
+  email: Jane@org.com
+  company: abc inc.
+  position: position

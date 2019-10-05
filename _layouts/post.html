@@ -1,0 +1,31 @@
+---
+layout: default
+---
+<div class="post" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="post-header">
+
+    <br>
+    <br>
+    <center>
+    <h1 itemprop="name" class="post-title">{{ page.title }}</h1>
+    <time itemprop="datePublished" datetime="{{ page.date | date: '%Y-%m-%d' }}">
+    {{ site.locales[site.default_locale].PostDate }}{{ page.date | date: "%b %-d, %Y" }}
+  </time> <pre>  Written by: {{ page.author }} </pre>
+</header>
+</center>
+      <br>
+        <center>
+      <!-- Post Featured Image -->
+
+      {% if page.image %}<img class="featured-image img-fluid" src="{% if page.image contains "://" %}{{ page.image }}{% else %}{{ page.image | absolute_url }}{% endif %}" alt="{{ page.title }} width="640" height="480"">{% endif %}
+
+      <!-- End Featured Image -->
+    </center>
+    <br>
+    <article class="post-content" itemprop="articleBody">
+      {{ content }}
+    </article>
+
+
+</div>

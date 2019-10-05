@@ -1,0 +1,23 @@
+<h1> Organization Sponsors </h1>
+
+<div class="sponsors">
+  <table>
+    {% tablerow sponsors in site.data.sponsors cols:3 %}
+
+
+
+    <div class="card" style="width:10rem; height: 20rem;">
+      <img class="card-img-top" src={{sponsors.image}} alt="Org Sponsor">
+      <div class="card-body">
+        <h5 class="card-title">{{sponsors.sponsor_name}}</h5>
+        <h7 class="card-text"><a href={{sponsors.URL}}> Website </a></h7>
+
+
+      </div>
+    </div>
+
+
+    {% endtablerow %}
+  </table>
+
+</div>

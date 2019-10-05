@@ -1,0 +1,15 @@
+---
+layout: default
+permalink: /jobs.html
+---
+
+
+<div class="Jobs">
+  <table>
+    {% tablerow jobs in site.data.jobs  cols:1 %}
+
+     <a href="{{jobs.url}}">{{jobs.company}} -  {{jobs.position}} Posted on: {{jobs.post_date}} </a>
+
+    {% endtablerow %}
+  </table>
+  </div>

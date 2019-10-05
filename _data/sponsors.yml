@@ -1,0 +1,14 @@
+- sponsor_name: Sponsor1
+  image: "assets/images/sponsors/sponsorlogo.jpeg"
+  tier: 5
+  URL: Sponsor1url
+
+- sponsor_name: Sponsor2
+  image: "assets/images/sponsors/sponsorlogo.jpeg"
+  tier: 5
+  URL: Sponsor2url
+
+- sponsor_name: Sponsor3
+  image: "assets/images/sponsors/sponsorlogo.jpeg"
+  tier: 5
+  URL: Sponsor3url

@@ -1,0 +1,16 @@
+
+
+- company: Company1
+  position: PositionTitle
+  post_date: "January 1st 2018"
+  url: URL
+  
+- company: Company2
+  position: PositionTitle
+  post_date: "January 1st 2018"
+  url: URL
+
+- company: Company3
+  position: PositionTitle
+  post_date: "January 1st 2018"
+  url: URL

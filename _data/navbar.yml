@@ -1,0 +1,37 @@
+
+- title: Home
+  sub: false
+  url: /
+- title: Events/Programs
+  sub: true
+  subfolderitems:
+    - page: Event Calendar
+      url: /calendar.html
+    - page: Programs
+      url: /programs.html
+    - page: Awards
+      url: /awards.html
+- title: Administration
+  sub: true
+  subfolderitems:
+    - page: Board/Officers
+      url: /staff.html
+- title: Resources
+  sub: true
+  subfolderitems:
+    - page: Links
+      url: /links.html
+    - page: Affiliates
+      url: /affiliates.html
+    - page: Job Board
+      url: /jobs.html
+- title: Sponsors
+  sub: false
+  url: /sponsors.html
+- title: About Us
+  sub: true
+  subfolderitems:
+    - page: Contact Info
+      url: /contact.html
+    - page: Join Organization
+      url: /join.html
