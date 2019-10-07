@@ -10,8 +10,8 @@ permalink: /links.html
 
 [Norcal Institite of Transportation Engineers](http://www.norcalite.org)
 
-[Bay Area Institute of Transportation Engineers] (http://www.sfbayite.org/)
+[Bay Area Institute of Transportation Engineers](http://www.sfbayite.org/)
 
 ## ITE Student Chapters ##
 
-[Institute of Transportation Engineers @ UC Berkeley] (https://ite.berkeley.edu/)
+[Institute of Transportation Engineers @ UC Berkeley](https://ite.berkeley.edu/)
