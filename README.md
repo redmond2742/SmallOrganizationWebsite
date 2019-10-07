@@ -1,2 +1,7 @@
-# Small Organization Website Template
-Simple Jekyll based website for small organization, allowing free hosting on github
+# East Bay Traffic Engineers Website
+
+Website: https://eastbaytrafficengineers.github.io/
+
+
+Based on the Simple Jekyll based website for small organizations: https://github.com/swerty24/SmallOrganizationWebsite
+
