@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /links.md
+permalink: /links.html
 ---
 
 # Institute of Transportation Engineers #
