@@ -20,7 +20,7 @@
   sub: true
   subfolderitems:
     - page: Links
-      url: /links.html
+      url: /links.md
     - page: Affiliates
       url: /affiliates.html
     - page: Job Board
