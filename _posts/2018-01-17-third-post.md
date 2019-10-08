@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Organization Post 3"
+title:  "Next EBTE Lunch Meeting"
 datetag: "January 17 2018"
 author: Doe Joe
 excerpt: "Maecenas et quam vehicula magna rhoncus imperdiet sit amet non nibh. Donec a nibh hendrerit, efficitur sem vitae, egestas libero. Morbi sit amet maximus diam. Cras ac est venenatis magna tristique pulvinar nec a risus."
