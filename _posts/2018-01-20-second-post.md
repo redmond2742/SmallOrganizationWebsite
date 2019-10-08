@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Organization Post 2"
+title:  "LRN: Traffic Controll Vendor Training"
 datetag: "January 20 2018"
 author: web admin
 excerpt: "Maecenas et quam vehicula magna rhoncus imperdiet sit amet non nibh. Donec a nibh hendrerit, efficitur sem vitae, egestas libero. Morbi sit amet maximus diam. Cras ac est venenatis magna tristique pulvinar nec a risus."
-image: "assets/images/PostPhotoExample.jpg"
+image: "assets/images/IMG_20191008_103812257.jpg"
 
 ---
 
