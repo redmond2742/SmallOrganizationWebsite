@@ -1,6 +1,18 @@
 ---
-layout: default
-permalink: /calendar.html
+layout: page
+title: Event Calendar
+permalink: /calendar/
 ---
 
-TODO
+<script>
+$(document).ready(function() {
+
+	$('#calendar').fullCalendar({
+		events: '/calendar.json'
+	})
+
+});
+
+</script>
+
+<div id="calendar"></div>

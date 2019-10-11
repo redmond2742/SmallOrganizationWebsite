@@ -25,16 +25,19 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: org_twitter
 github_username:  org_github
 
-collections:
-  events:
-    output: true
-    permalink: /events/:path/
-    title: Events
+
 
 # Build settings
 markdown: kramdown
 plugins:
   - jekyll-feed
+
+  #Collections for Calendar
+collections:
+  events:
+    output: true
+    permalink: /events/:path/
+    title: Events
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

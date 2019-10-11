@@ -6,7 +6,7 @@
   sub: true
   subfolderitems:
     - page: Event Calendar
-      url: /calendar.html
+      url: /calendar/
     - page: Programs
       url: /programs.html
     - page: Awards
