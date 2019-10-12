@@ -3,6 +3,7 @@ layout: post
 title:  "Joint SFbayITE Lunch Meeting at CCTA"
 datetag: "January 1st 2019"
 author: Jane Doe
+permalink: /one/
 excerpt: "Maecenas et quam vehicula magna rhoncus imperdiet sit amet non nibh. Donec a nibh hendrerit, efficitur sem vitae, egestas libero. Morbi sit amet maximus diam. Cras ac est venenatis magna tristique pulvinar nec a risus."
 image: "assets/images/PostPhotoExample.jpg"
 ---
