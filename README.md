@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # East Bay Traffic Engineers Website
 
 Website: https://eastbaytrafficengineers.github.io/
