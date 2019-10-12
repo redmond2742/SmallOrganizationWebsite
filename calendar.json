@@ -10,7 +10,6 @@ permalink: /calendar.json
     "id": "{{event.event_id}}",
 		"title":"{{event.title}}",
 		"start": "{{event.event_date}}",
-		"end": "{{event.event_date}}",
     "allDay":true,
 		"url":"{{event.url}}"
 	}
