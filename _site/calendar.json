@@ -1,0 +1,23 @@
+[
+
+	{
+    "id": "2",
+		"title":"Holiday",
+		"start": "2019-11-22 14:00:00 +0000",
+		"end": "2019-11-22 14:00:00 +0000",
+    "allDay":true,
+		"url":"/events/Holiday/"
+	}
+	,
+
+	{
+    "id": "1",
+		"title":"Ray's Birthday",
+		"start": "2019-10-02 14:00:00 +0000",
+		"end": "2019-10-02 14:00:00 +0000",
+    "allDay":true,
+		"url":"/events/birthday/"
+	}
+	
+
+]
