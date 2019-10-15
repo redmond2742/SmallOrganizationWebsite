@@ -20,7 +20,7 @@
 title: Organization Name
 email: your-email@example.com
 description: Description for Organization Website
-baseurl: "/SmallOrganizationWebsite/" # the subpath of your site, e.g. /blog
+baseurl: /SmallOrganizationWebsite # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: org_twitter
 github_username:  org_github

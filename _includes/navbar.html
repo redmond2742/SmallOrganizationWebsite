@@ -1,5 +1,5 @@
 <nav class="navbar rounded navbar-expand-md navbar-dark bg-dark mb-4 navbar-custom">
-  <a class="navbar-brand" href="{{ site.baseurl }}">{{site.title}}</a>
+  <a class="navbar-brand" href="{{ site.baseurl }}/">{{site.title}}</a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
@@ -14,7 +14,7 @@
         </a>
         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
           {% for entry in item.subfolderitems %}
-          <a class="dropdown-item" href="{{ entry.url }}">{{ entry.page }}</a>
+          <a class="dropdown-item" href="{{ site.baseurl }}{{ entry.url }}">{{ entry.page }}</a>
           {% endfor %}
         </div>
       </li>
@@ -22,7 +22,7 @@
       {% if item.sub == false %}
 
       <li class="nav-item">
-        <a class="nav-link" href="{{ item.url }}">{{item.title}}<span class="sr-only">(current)</span></a>
+        <a class="nav-link" href="{{ site.baseurl }}{{ item.url }}">{{item.title}}<span class="sr-only">(current)</span></a>
       </li>
       {% endif %}
       {% endfor %}
