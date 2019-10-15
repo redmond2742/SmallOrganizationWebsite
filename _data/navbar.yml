@@ -1,14 +1,14 @@
 
 - title: Home
   sub: false
-  url: /
+  url: {{ '/' | relative_url }} 
 - title: Events/Programs
   sub: true
   subfolderitems:
     - page: Event Calendar
       url: /calendar/
     - page: Programs
-      url: /programs.html
+      url: {{ '/programs.html' | relative_url }} 
     - page: Awards
       url: /awards.html
 - title: Administration
