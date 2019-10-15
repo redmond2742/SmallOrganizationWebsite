@@ -7,7 +7,7 @@ layout: default
 
   {% for post in site.posts  %}
 
-      <h2> <a href="{{ site.baseurl }} {{ post.url }}"> {{ post.title }} </a></h2>
+      <h2> <a href="{{ site.baseurl }}{{ post.url }}"> {{ post.title }} </a></h2>
       <time itemprop="datePublished" datetime="{{ page.date | date: '%Y-%m-%d' }}">
       {{ site.locales[site.default_locale].PostDate }}{{ page.date | date: "%b %-d, %Y" }}
        <small>{{post.datetag}} by: {{post.author}} </small><br>
