@@ -1,7 +1,7 @@
 
 - title: Home
   sub: false
-  url: /
+  url: {{ '/' | relative_url }} 
 - title: Events/Programs
   sub: true
   subfolderitems:
