@@ -7,12 +7,10 @@ excerpt: "Maecenas et quam vehicula magna rhoncus imperdiet sit amet non nibh. D
 image: "assets/images/PostPhotoExample.jpg"
 ---
 
-<<<<<<< HEAD
 [json link]({{site.baseurl}}/calendar.json)
-=======
 [json link]({{ site.baseurl }}/calendar.json)
 [base url]({{ site.baseurl }})
->>>>>>> 4497c258f683990c375e950780e3964492b07002
+
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim magna, vel suscipit sapien fermentum ac. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aenean at hendrerit nunc, ut viverra arcu. In facilisis magna et turpis fermentum, non aliquam nisl commodo. Curabitur quis erat tortor. Nunc quis urna tincidunt, euismod ex quis, maximus ante. In placerat dui vel sapien congue, vitae ullamcorper leo blandit. Nam quam eros, pharetra in est eget, congue efficitur lacus. Pellentesque aliquet accumsan felis eu aliquam. Curabitur maximus ultricies blandit. Aliquam a dapibus elit, ut tempus nisl. Fusce non orci sit amet libero gravida efficitur vel in enim. Maecenas id nulla non lacus lacinia porttitor nec sed mauris. Praesent tincidunt ipsum vel porttitor auctor.
 
