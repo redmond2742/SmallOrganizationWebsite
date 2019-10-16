@@ -1,0 +1,65 @@
+#header {
+    height: 80px;
+}
+#header hgroup {
+    position: absolute;
+    top: 10px;
+    left: 20px;
+}
+#header h1 {
+    margin: 0;
+    font-size: 1.75em;
+    font-weight: bold;
+}
+#header h2 {
+    color: #ccc;
+    margin: 0 0 4px 16px;
+    line-height: 0.8;
+    font-size: 1.0em;
+    font-weight: normal;
+}
+#header a,
+#header a:hover,
+#header a:visited {
+    text-decoration: none;
+}
+
+/* header.html: navbar */
+.navbar-fixed-top {
+    margin-bottom: 20px;
+    position: static;
+}
+.navbar-fixed-top .navbar-inner {
+    padding: 0;
+    border-top: 1px solid #d4d4d4;
+    border-bottom: 1px solid #d4d4d4;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.067);
+}
+.navbar .nav > .active > a,
+.navbar .nav > .active > a:hover,
+.navbar .nav > .active > a:focus {
+    box-shadow: none;
+}
+.navbar .btn-navbar {
+    margin-bottom: 5px;
+}
+.lt-ie9 .collapse {
+    overflow: visible; /* removed from 2.1.1, but still IE need this */
+}
+
+/* header.html: dropdown container */
+.navbar .nav > li.dropdown-container {
+    position: relative !important;
+}
+.navbar .nav > li.dropdown-container .dropdown-link {
+    position: absolute !important;
+    top: 0;
+    left: 0;
+    z-index: 1;
+}
+.navbar .nav > li.dropdown-container .caret {
+    margin-left: 1.5em;
+}
+.navbar .nav > li.dropdown-container .dropdown-link + .dropdown-toggle {
+    z-index: 0;
+}
