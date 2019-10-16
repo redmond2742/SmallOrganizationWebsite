@@ -1,7 +1,6 @@
-
 - title: Home
   sub: false
-  url: {{ site.baseurl }}/
+  url: /
 - title: Events/Programs
   sub: true
   subfolderitems:

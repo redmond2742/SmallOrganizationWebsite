@@ -1,5 +1,5 @@
 - name: Jane Doe
-  image: "assets/images/officers/officer-headshot.jpeg"
+  image: "/assets/images/officers/officer-headshot.jpeg"
   ORGposition: Website Co-Chair
   email: jane.doe@org.com
   company: abc inc.

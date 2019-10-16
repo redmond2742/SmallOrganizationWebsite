@@ -5,7 +5,7 @@
 		"title":"All Hands",
 		"start": "2019-11-22",
     "allDay":true,
-		"url":"/events/AllHands/"
+		"url":"/SmallOrganizationWebsite/events/AllHands/"
 	}
 	,
 
@@ -14,7 +14,7 @@
 		"title":"Lunch Workshop",
 		"start": "2019-10-02",
     "allDay":true,
-		"url":"/events/LunchWorkshop/"
+		"url":"/SmallOrganizationWebsite/events/LunchWorkshop/"
 	}
 	
 

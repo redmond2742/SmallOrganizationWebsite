@@ -8,7 +8,7 @@ permalink: /calendar/
 $(document).ready(function() {
 
 	$('#calendar').fullCalendar({
-		events: '/calendar.json'
+		events: '{{ site.baseurl }}/calendar.json'
 	})
 
 });
