@@ -23,8 +23,9 @@
 # in the templates via {{ site.myvariable }}.
 title: East Bay Traffic Engineers
 email: your-email@example.com
+
 description: East Bay Traffic Engineers is an informal meeting of traffic engineers within the easy bay.
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "/EBTE-Website" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: org_twitter
 github_username:  org_github
