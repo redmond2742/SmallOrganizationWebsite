@@ -7,11 +7,12 @@ permalink: /calendar/
 <script>
 $(document).ready(function() {
 
+	jQuery.noConflict();
 	$('#calendar').fullCalendar({
 		events: '{{ site.baseurl }}/calendar.json'
 	})
 
-})(jQuery);
+});
 
 </script>
 
