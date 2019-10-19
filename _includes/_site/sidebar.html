@@ -1,0 +1,27 @@
+<div class="container">
+  <div class="card rounded mb-4">
+    <div class="card-header text-center"> Recent Updates </div>
+    <div class="card-body text-center">
+      {% for post in site.posts limit:2 %}
+
+
+        <p class="card-text" ><a href="{{ site.baseurl }}{{ post.url }}"> {{ post.title }} </a></p>
+        <p class="card-text">  <time itemprop="datePublished" datetime="{{ page.date | date: '%Y-%m-%d' }}">
+          {{ site.locales[site.default_locale].PostDate }}{{ page.date | date: "%b %-d, %Y" }}
+           <small>{{post.datetag}} by: {{post.author}} </small><br></p>
+      {% endfor %}
+    </div>
+  </div>
+  <div class="card">
+    <div class="card-header text-center"> Programs </div>
+    <div class="card-body text-center">
+
+
+      <p class="card-text">New Workshops</p>
+      <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+
+
+
+    </div>
+  </div>
+</div>

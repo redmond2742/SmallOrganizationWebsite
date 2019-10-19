@@ -1,0 +1,23 @@
+<h1> Organization Officers </h1>
+
+<div class="officers">
+  <table>
+    {% tablerow officers in site.data.officers cols:3 %}
+
+
+
+    <div class="card" style="width:10rem; height: 20rem;">
+      <img class="card-img-top" src={{site.baseurl}}{{officers.image}} alt="Officer Headshot Image">
+      <div class="card-body">
+        <h5 class="card-title">{{officers.name}}</h5>
+        <h7 class="card-text">{{officers.ORGposition}}</h7>
+        <h7 class="card-text">{{officers.email}}</h7>
+
+      </div>
+    </div>
+
+
+    {% endtablerow %}
+  </table>
+
+</div>
