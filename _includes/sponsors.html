@@ -1,12 +1,12 @@
 <h1> Organization Sponsors </h1>
 
-<div class="sponsors">
-  <table>
-    {% tablerow sponsors in site.data.sponsors cols:3 %}
+<div class="sponsors">.
+  <div class="container-fluid">
+    <div class="row">
 
-
-
-    <div class="card" style="width:10rem; height: 20rem;">
+    {% for sponsors in site.data.sponsors cols:3 %}
+<div class="col">
+    <div class="card" style="width:13rem; height: 20rem;">
       <img class="card-img-top" src={{sponsors.image}} alt="Org Sponsor">
       <div class="card-body">
         <h5 class="card-title">{{sponsors.sponsor_name}}</h5>
@@ -15,9 +15,10 @@
 
       </div>
     </div>
+      </div>
 
 
-    {% endtablerow %}
-  </table>
+    {% endfor %}
 
+    </div>
 </div>
