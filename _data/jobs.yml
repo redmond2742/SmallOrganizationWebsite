@@ -1,16 +1,18 @@
 
 
 - company: Company1
-  position: PositionTitle
+  position: Position Title
   post_date: "January 1st 2018"
-  url: URL
-  
+  url: "#Job1URL"
+
+
 - company: Company2
-  position: PositionTitle
-  post_date: "January 1st 2018"
-  url: URL
+  position: Position Title
+  post_date: "January 2nd 2018"
+  url: "#Job2URL"
+
 
 - company: Company3
-  position: PositionTitle
-  post_date: "January 1st 2018"
-  url: URL
+  position: Position Title
+  post_date: "January 3rd 2019"
+  url: "#Job3URL"

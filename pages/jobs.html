@@ -5,11 +5,25 @@ permalink: /jobs.html
 
 
 <div class="Jobs">
-  <table>
-    {% tablerow jobs in site.data.jobs  cols:1 %}
+ <div class="list-group">
+    {% for job in site.data.jobs %}
 
-     <a href="{{jobs.url}}">{{jobs.company}} -  {{jobs.position}} Posted on: {{jobs.post_date}} </a>
 
-    {% endtablerow %}
-  </table>
+     <a href="{{ job.url }}" class="list-group-item list-group-item-action flex-column align-items-start mb-3">
+      <div class="d-flex w-100 justify-content-between">
+        <h5 class="mb-1">{{ job.position }} - {{ job.company }}</h5>
+        <small class="text-muted">{{ job.post_date }} </small>
+      </div>
+      <p class="mb-1">Donec id elit non mi porta gravida at eget metus. Maecenas sed diam eget risus varius blandit.</p>
+      <small class="text-muted">small text details</small>
+    </a>
+
+
+
+
+
+
+
+    {% endfor %}
+</div>
   </div>
