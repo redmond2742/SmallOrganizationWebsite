@@ -3,22 +3,22 @@
 <div class="sponsors">.
   <div class="container-fluid">
     <div class="row">
+      {% for sponsors in site.data.sponsors %}
+      <div class="col">
 
-    {% for sponsors in site.data.sponsors %}
-<div class="col">
-    <div class="card" style="width:13rem; height: 20rem;">
-      <img class="card-img-top" src={{sponsors.image}} alt="Org Sponsor">
-      <div class="card-body">
-        <h5 class="card-title">{{sponsors.sponsor_name}}</h5>
-        <h7 class="card-text"><a href={{sponsors.URL}}> Website </a></h7>
+        <div class="card text-center mb-3" style="width:13rem; height: 20rem;">
+
+          <img class="card-img-top"  src={{sponsors.image}} alt="Org Sponsor">
+          <div class="card-body">
+
+            <h5 class="card-title">{{sponsors.sponsor_name}}</h5>
+            <a href="{{sponsors.URL}}" class="card-link">Website </a>
+          </div>
 
 
+        </div>
       </div>
+      {% endfor %}
     </div>
-      </div>
-
-
-    {% endfor %}
-
-    </div>
-</div>
+  </div>
+  </div>

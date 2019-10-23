@@ -1,10 +1,9 @@
 <div class="container">
   <div class="card rounded mb-4">
     {% if {{page.url}} == "/" %}
-    <div class="card">
+    <div class="card mb-3">
       <div class="card-header text-center"> Programs </div>
       <div class="card-body text-center">
-
 
         <p class="card-text">New Workshops</p>
         <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
@@ -12,7 +11,7 @@
       </div>
     </div>
 
-    <div class="card">
+    <div class="card mb-3">
       <div class="card-header text-center"> Events </div>
       <div class="card-body text-center">
 
@@ -26,16 +25,23 @@
     </div>
     {% else %}
 
-    <div class="card-header text-center"> Recent Updates </div>
+    <div class="card-header text-center">  Recent Updates </div>
     <div class="card-body text-center">
+      <ul class="list-group list-group-flush">
 
         {% for post in site.posts limit:2 %}
 
+           <li class="list-group-item"> <p class="card-text" ><a href="{{ site.baseurl }}{{ post.url }}"> {{ post.title }} </a></p>
+               <p class="card-text"></p>
+           </li>
 
-       <p class="card-text" ><a href="{{ site.baseurl }}{{ post.url }}"> {{ post.title }} </a></p>
 
-  <p class="card-text"></p>
+
+
+
+
         {% endfor %}
+        </ul>
 
     </div>
     {% endif %}
