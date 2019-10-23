@@ -1,4 +1,5 @@
-
+# list in order to appear on jobs page
+# Typically just add new jobs to the top, remove closed jobs if desired
 
 - company: Company1
   position: Position Title
