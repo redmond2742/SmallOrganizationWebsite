@@ -11,4 +11,9 @@ Example of this Template can be found here: [https://swerty24.github.io/SmallOrg
 ## Steps to Using this Template for your website
 ### 0. Sign up for Github
 Create a Github Account and verify it.
-![not loading github login gif](assets/demo/01.GithubLogin.gif){:height="700px" width="400px"}
+![not loading github login gif](assets/demo/01.GithubLogin.gif)
+### 1. Create new repository
+### 2. Clone SmallOrganizationWebsite repository
+### 3. Modify template as necessary
+The \_config.yml and \_data folder is where most edits can take place to change the content on the website.
+You can make any additional changes to the template code if desired for your specific website.
