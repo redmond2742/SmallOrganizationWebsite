@@ -11,4 +11,4 @@ Example of this Template can be found here: [https://swerty24.github.io/SmallOrg
 ==Steps to Using this Template for your website==
 ===0. Sign up for Github===
 Create a Github Account and verify it.
-![](01.GithubLogin.gif)
+![not loading github login gif](assets/demo/01.GithubLogin.gif)
