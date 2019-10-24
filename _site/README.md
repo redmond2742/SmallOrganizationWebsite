@@ -8,7 +8,7 @@ Example of this Template can be found here: [https://swerty24.github.io/SmallOrg
 [Documentation about Github Pages](https://help.github.com/en/articles/getting-started-with-github-pages)
 
 
-==Steps to Using this Template for your website==
-===0. Sign up for Github===
+## Steps to Using this Template for your website
+### 0. Sign up for Github
 Create a Github Account and verify it.
-![not loading github login gif](assets/demo/01.GithubLogin.gif)
+![not loading github login gif](assets/demo/01.GithubLogin.gif | width=400)
