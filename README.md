@@ -28,4 +28,4 @@ Modify the readme file to match your new website. Delete the demo website items.
 The \_config.yml and \_data folder is where most edits can take place to change the content on the website.
 You can make any additional changes to the template code if desired for your specific website.
 
-###3. Clone repository to your local computer for additional editing and personalization
+### 3. Clone repository to your local computer for additional editing and personalization
