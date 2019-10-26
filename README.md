@@ -3,11 +3,7 @@ This is a Simple [Jekyll](https://jekyllrb.com) based website for small organiza
 
 This template is great for a small organization looking to save costs from hosting on [Wordpress](https://wordpress.com/), [Wix](https://www.wix.com/) or [Squarespace](https://www.squarespace.com/). This template can be forked to make a simple DIY website for a small  organization, club or group and host it on github free. If desired, a domain name can be purchased (<$15/yr) and linked to the freely hosted [github pages](https://help.github.com/en/articles/getting-started-with-github-pages). This template utilizes .yml files to store data presented on the website for simplification and clarify with minimal programing experience required to use.
 
-<<<<<<< HEAD
 ![Demo Website Screenshot gif](assets/demo/DemoIntro.gif)
-=======
-![Demo Website Screenshot Gif](assets/demo/DemoIntro.gif)
->>>>>>> 0c7ac597158d9289444c11a9ca4d81b404e9abc2
 
 Live Demo: [https://swerty24.github.io/SmallOrganizationWebsite/](https://swerty24.github.io/SmallOrganizationWebsite/)
 
