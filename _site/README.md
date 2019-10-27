@@ -33,11 +33,11 @@ Possible edits include:
 - Modify/add events to the \_events folder
 
 
-You can make any additional changes to the template code if desired for your specific website. For major changes to the code that can improve the template feel free to submit a pull request.
+You can make any additional changes to the template code if desired for your specific website. For major changes to the code that can improve the template feel free to submit a [pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests).
 ![github login gif](assets/demo/02.Edits.gif)
 
 ### 3. Clone repository to your local computer for additional editing and personalization
-Instead of editing the entire site on github, you can clone the repository to your local computer. From the terminal in the folder you would like to work in, type:
+Instead of editing the entire site on github, you can clone the repository to your local computer after [setting up github](https://kbroman.org/github_tutorial/pages/first_time.html). From the terminal in the folder you would like to work in, type:
 ```
 $ git clone https://github.com/swerty24/SmallOrganizationWebsite.git
 ```
