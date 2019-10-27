@@ -37,7 +37,9 @@ You can make any additional changes to the template code if desired for your spe
 ![github login gif](assets/demo/02.Edits.gif)
 
 ### 3. Clone repository to your local computer for additional editing and personalization
-Instead of editing the entire site on github, you can clone the repository to your local computer. From the terminal
+Instead of editing the entire site on github, you can clone the repository to your local computer. From the terminal in the folder you would like to work in, type:
 ```
 $ git clone https://github.com/swerty24/SmallOrganizationWebsite.git
 ```
+
+Make edits locally using [an editor of your choice](https://github.com/atom/atom). Update your repository with [push commands](https://help.github.com/en/github/using-git/pushing-commits-to-a-remote-repository).
