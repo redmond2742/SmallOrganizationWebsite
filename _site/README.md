@@ -5,7 +5,7 @@ This template is great for a small organization looking to save costs from hosti
 
 ![Demo Website Screenshot gif](assets/demo/DemoIntro.gif)
 
-Live Demo: [https://swerty24.github.io/SmallOrganizationWebsite/](https://swerty24.github.io/SmallOrganizationWebsite/)
+### LIVE DEMO: [https://swerty24.github.io/SmallOrganizationWebsite/](https://swerty24.github.io/SmallOrganizationWebsite/)
 
 ## Template Features
   * Calendar using [FullCalendar]()
@@ -27,5 +27,6 @@ Fork the Small Organization Website repository into your github account. Enable 
 Modify the readme file to match your new website. Delete the demo website items.
 The \_config.yml and \_data folder is where most edits can take place to change the content on the website.
 You can make any additional changes to the template code if desired for your specific website.
+![github login gif](assets/demo/02.Edits.gif)
 
 ### 3. Clone repository to your local computer for additional editing and personalization
