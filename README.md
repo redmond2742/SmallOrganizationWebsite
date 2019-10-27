@@ -30,3 +30,7 @@ You can make any additional changes to the template code if desired for your spe
 ![github login gif](assets/demo/02.Edits.gif)
 
 ### 3. Clone repository to your local computer for additional editing and personalization
+Instead of editing the entire site on github, you can clone the repository to your local computer. From the terminal
+'''
+$ git clone https://github.com/swerty24/SmallOrganizationWebsite.git
+'''
