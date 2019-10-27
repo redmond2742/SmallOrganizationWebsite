@@ -24,9 +24,16 @@ Fork the Small Organization Website repository into your github account. Enable 
 ![github login gif](assets/demo/01.Fork.gif)
 
 ### 2. Modify template as necessary
-Modify the readme file to match your new website. Delete the demo website items.
-The \_config.yml and \_data folder is where most edits can take place to change the content on the website.
-You can make any additional changes to the template code if desired for your specific website.
+Modify the README file to match your new website. Delete the demo website items.
+Possible edits include:
+- \_config.yml
+- Everything in the \_data folder
+- assets\images folder for updating relevant images
+- Everything in the pages folder
+- Modify/add events to the \_events folder
+
+
+You can make any additional changes to the template code if desired for your specific website. For major changes to the code that can improve the template feel free to submit a pull request.
 ![github login gif](assets/demo/02.Edits.gif)
 
 ### 3. Clone repository to your local computer for additional editing and personalization
