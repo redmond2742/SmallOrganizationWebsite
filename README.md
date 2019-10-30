@@ -4,12 +4,14 @@ This is a Simple [Jekyll](https://jekyllrb.com) based website for small organiza
 This template is great for a small organization looking to save costs from hosting on [Wordpress](https://wordpress.com/), [Wix](https://www.wix.com/) or [Squarespace](https://www.squarespace.com/). This template can be forked to make a simple DIY website for a small  organization, club or group and host it on github free. If desired, a domain name can be purchased (<$15/yr) and linked to the freely hosted [github pages](https://help.github.com/en/articles/getting-started-with-github-pages). This template utilizes .yml files to store data presented on the website for simplification and clarify with minimal programing experience required to use.
 
 ## Template Features
-  * Calendar using [FullCalendar]()
-  * Photo and contact cards for members of organizations
+  * Calendar using [FullCalendar](https://fullcalendar.io/)
+  * Events displaying Google Maps for location
+  * Website posting updates
+  * Photo and contact cards for Organization members
   * Sponsorship cards for supporting companies
   * Detailed list of Job Postings
   * Customizable for any use, licensed under MIT license (ie. do what you want)
-  
+
 ### LIVE DEMO: [https://swerty24.github.io/SmallOrganizationWebsite/](https://swerty24.github.io/SmallOrganizationWebsite/)
 
 
