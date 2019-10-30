@@ -5,7 +5,7 @@ This template is great for a small organization looking to save costs from hosti
 
 ## Template Features
   * Calendar using [FullCalendar](https://fullcalendar.io/)
-  * Events displaying Google Maps for location
+  * Events displaying [Google Maps](https://www.google.com/maps) for location
   * Website posting updates
   * Photo and contact cards for Organization members
   * Sponsorship cards for supporting companies
