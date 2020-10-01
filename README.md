@@ -1,5 +1,5 @@
 # Small Organization Website Template
-This is a Simple [Jekyll](https://jekyllrb.com) based website for small organizations to use and modify as a template.
+This is a Simple [Jekyll](https://jekyllrb.com) based helpfull website for small organizations to use and modify as a template.
 
 This template is great for a small organization looking to save costs from hosting on [Wordpress](https://wordpress.com/), [Wix](https://www.wix.com/) or [Squarespace](https://www.squarespace.com/). This template can be forked to make a simple DIY website for a small  organization, club or group and host it on github free. If desired, a domain name can be purchased (<$15/yr) and linked to the freely hosted [github pages](https://help.github.com/en/articles/getting-started-with-github-pages). This template utilizes .yml files to store data presented on the website for simplification and clarify with minimal programing experience required to use.
 
@@ -12,7 +12,7 @@ This template is great for a small organization looking to save costs from hosti
   * Detailed list of Job Postings
   * Customizable for any use, licensed under MIT license (ie. do what you want)
 
-### LIVE DEMO: [https://swerty24.github.io/SmallOrganizationWebsite/](https://swerty24.github.io/SmallOrganizationWebsite/)
+### LIVE DEMO is here: [https://swerty24.github.io/SmallOrganizationWebsite/](https://swerty24.github.io/SmallOrganizationWebsite/)
 
 
 ![Demo Website Screenshot gif](assets/demo/DemoIntro.gif)
@@ -38,7 +38,7 @@ Possible edits include:
 - Modify/add events to the \_events folder
 
 
-You can make any additional changes to the template code if desired for your specific website. For major changes to the code that can improve the template feel free to submit a [pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests).
+You can make any additional changes to the template code if desired for your specific  website. For major changes to the code that can improve the template feel free to submit a [pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests).
 ![github login gif](assets/demo/02.Edits.gif)
 
 ### 3. Clone repository to your local computer for additional editing and personalization
@@ -47,4 +47,4 @@ Instead of editing the entire site on github, you can clone the repository to yo
 $ git clone https://github.com/swerty24/SmallOrganizationWebsite.git
 ```
 
-Make edits locally using [an editor of your choice](https://github.com/atom/atom). Update your repository with [push commands](https://help.github.com/en/github/using-git/pushing-commits-to-a-remote-repository).
+Make edits locally using  [an editor of your choice](https://github.com/atom/atom). Update your repository with [push commands](https://help.github.com/en/github/using-git/pushing-commits-to-a-remote-repository).
