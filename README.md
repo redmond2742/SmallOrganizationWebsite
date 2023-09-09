@@ -12,7 +12,7 @@ This template is great for a small organization looking to save costs from hosti
   * Detailed list of Job Postings
   * Customizable for any use, licensed under MIT license (ie. do what you want)
 
-### LIVE DEMO is here: [https://swerty24.github.io/SmallOrganizationWebsite/](https://swerty24.github.io/SmallOrganizationWebsite/)
+### LIVE DEMO is here: [https://redmond2742.github.io/SmallOrganizationWebsite/](https://redmond2742.github.io/SmallOrganizationWebsite/)
 
 
 ![Demo Website Screenshot gif](assets/demo/DemoIntro.gif)
